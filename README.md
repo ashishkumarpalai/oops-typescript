@@ -1,13 +1,13 @@
 # oops-typescript
 
-npm init -y 
+## npm init -y 
 
-npm i typescript
-npm i tsc -d
-tsc --init
+## npm i typescript
+## npm i tsc -d
+## tsc --init
 
 
-in the tsconfig.json file 
+# in the tsconfig.json file 
 {
   "compilerOptions": {
     "target": "ES6",
